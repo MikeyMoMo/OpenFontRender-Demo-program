@@ -4,8 +4,6 @@ Thanks to takkaO for this very good library.  It is a huge amount of code and ve
 
 First, I am SO HAPPY that this library has been created.  I have a progarm that uses 2 different fonts in various sizes in the different screens it displays.  I had to have a binary for each font and in each size.  This was a HUGE amount of souce code lines!!  Now, I only have 2 TTF binary conversions and use multiple sizes.  Saved a LOT of memory!!
 
-Rename either the created folder of the .ino file to make them match.  I will try to update this soon.  Sorry.  First upload to Github!
-
 This is the status as of library version 1.0.0.
 
 I don't yet know if this interfaces with the tft_espi button text rendering.  I am still using the old code there.  I don't know how to hook it in.
