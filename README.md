@@ -1,4 +1,4 @@
-# OpenFontRender-Example-program
+# OpenFontRender-Demo-program
 
 Thanks to **takkaO** for this very good library.  It is a huge amount of code and very detailed.  With a few fixes, it will be GREAT!!
 
